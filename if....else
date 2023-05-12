@@ -1,0 +1,10 @@
+package Taskk1
+
+fun main(){
+   var age= readln().toInt() //10 =[not found] or 25 =[I am 25 years old]
+    if (age==25)
+        println("I am $age years old")
+    else
+        println("not found")
+
+}
